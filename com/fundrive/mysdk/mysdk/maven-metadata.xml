@@ -3,10 +3,10 @@
   <groupId>com.fundrive.mysdk</groupId>
   <artifactId>mysdk</artifactId>
   <versioning>
-    <release>1.0.2</release>
+    <release>1.1.0</release>
     <versions>
-      <version>1.0.2</version>
+      <version>1.1.0</version>
     </versions>
-    <lastUpdated>20210929005031</lastUpdated>
+    <lastUpdated>20220510093935</lastUpdated>
   </versioning>
 </metadata>
